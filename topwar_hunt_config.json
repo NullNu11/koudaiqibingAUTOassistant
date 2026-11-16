@@ -1,0 +1,789 @@
+{
+  "monster": "normal",
+  "max_bottles": 0,
+  "daily_limit": 10,
+  "queue_clubstar": 1,
+  "queue_normal": 4,
+  "queue_refugee": 4,
+  "names": {
+    "hero": {},
+    "troop": {}
+  },
+  "march_presets": [
+    {
+      "heroIds": [
+        234,
+        241,
+        240
+      ],
+      "formationV2": 1003,
+      "icon": 3,
+      "armyInfo": [
+        {
+          "heroCap": 0,
+          "pos": 0,
+          "armyId": 20100,
+          "num": 16,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 1,
+          "armyId": 504530,
+          "num": 16,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 2,
+          "armyId": 20100,
+          "num": 16,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 3,
+          "armyId": 20100,
+          "num": 16,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 4,
+          "armyId": 20100,
+          "num": 16,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 5,
+          "armyId": 20100,
+          "num": 15,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 6,
+          "armyId": 20100,
+          "num": 15,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 7,
+          "armyId": 20100,
+          "num": 15,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 8,
+          "armyId": 20100,
+          "num": 15,
+          "skinId": 0
+        }
+      ]
+    },
+    {
+      "heroIds": [
+        202,
+        113,
+        303
+      ],
+      "formationV2": 0,
+      "icon": 6,
+      "armyInfo": [
+        {
+          "heroCap": 0,
+          "pos": 0,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 1,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 2,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 3,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 4,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 5,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 6,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 7,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 8,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        }
+      ]
+    },
+    {
+      "heroIds": [
+        103,
+        122,
+        203
+      ],
+      "formationV2": 0,
+      "icon": 5,
+      "armyInfo": [
+        {
+          "heroCap": 0,
+          "pos": 0,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 1,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 2,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 3,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 4,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 5,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 6,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 7,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 8,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        }
+      ]
+    },
+    {
+      "heroIds": [
+        115,
+        140,
+        108
+      ],
+      "formationV2": 0,
+      "icon": 2,
+      "armyInfo": [
+        {
+          "heroCap": 0,
+          "pos": 0,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 1,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 2,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 3,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 4,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 5,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 6,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 7,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 8,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        }
+      ]
+    },
+    {
+      "heroIds": [
+        104,
+        205,
+        207
+      ],
+      "formationV2": 0,
+      "icon": 7,
+      "armyInfo": [
+        {
+          "heroCap": 0,
+          "pos": 0,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 1,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 2,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 3,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 4,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 5,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 6,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 7,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 8,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        }
+      ]
+    },
+    {
+      "heroIds": [
+        107,
+        302,
+        305
+      ],
+      "formationV2": 0,
+      "icon": 4,
+      "armyInfo": [
+        {
+          "heroCap": 0,
+          "pos": 0,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 1,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 2,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 3,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 4,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 5,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 6,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 7,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 8,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        }
+      ]
+    },
+    {
+      "heroIds": [
+        112,
+        114,
+        110
+      ],
+      "formationV2": 0,
+      "icon": 1,
+      "armyInfo": [
+        {
+          "heroCap": 0,
+          "pos": 0,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 1,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 2,
+          "armyId": 10099,
+          "num": 8,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 3,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 4,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 5,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 6,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 7,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 8,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        }
+      ]
+    },
+    {
+      "heroIds": [
+        102,
+        201,
+        301
+      ],
+      "formationV2": 0,
+      "icon": 2,
+      "armyInfo": [
+        {
+          "heroCap": 0,
+          "pos": 0,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 1,
+          "armyId": 10099,
+          "num": 7,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 2,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 3,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 4,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 5,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 6,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 7,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        },
+        {
+          "heroCap": 0,
+          "pos": 8,
+          "armyId": 10099,
+          "num": 6,
+          "skinId": 0
+        }
+      ]
+    }
+  ],
+  "tpl": {
+    "heroes": [
+      234,
+      241,
+      115
+    ],
+    "owner": {
+      "x": 465,
+      "y": 439
+    },
+    "speed": 10000,
+    "formation": 0,
+    "formationV2": 1003,
+    "armyList": [
+      {
+        "pos": 1,
+        "armyId": 20100,
+        "armyNum": 13
+      },
+      {
+        "pos": 2,
+        "armyId": 504530,
+        "armyNum": 13
+      },
+      {
+        "pos": 3,
+        "armyId": 20100,
+        "armyNum": 13
+      },
+      {
+        "pos": 11,
+        "armyId": 20100,
+        "armyNum": 13
+      },
+      {
+        "pos": 12,
+        "armyId": 20100,
+        "armyNum": 13
+      },
+      {
+        "pos": 13,
+        "armyId": 20100,
+        "armyNum": 13
+      },
+      {
+        "pos": 21,
+        "armyId": 20100,
+        "armyNum": 13
+      },
+      {
+        "pos": 22,
+        "armyId": 20100,
+        "armyNum": 13
+      },
+      {
+        "pos": 23,
+        "armyId": 20100,
+        "armyNum": 12
+      }
+    ]
+  },
+  "tpl_normal": {
+    "heroes": [
+      115,
+      140,
+      204
+    ],
+    "owner": {
+      "x": 465,
+      "y": 439
+    },
+    "speed": 10000,
+    "armyList": [
+      {
+        "pos": 1,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 2,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 3,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 11,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 12,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 13,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 21,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 22,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 23,
+        "armyId": 10098,
+        "armyNum": 6
+      }
+    ]
+  },
+  "tpl_refugee": {
+    "heroes": [
+      115,
+      140,
+      204
+    ],
+    "owner": {
+      "x": 465,
+      "y": 439
+    },
+    "speed": 10000,
+    "armyList": [
+      {
+        "pos": 1,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 2,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 3,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 11,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 12,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 13,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 21,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 22,
+        "armyId": 10098,
+        "armyNum": 7
+      },
+      {
+        "pos": 23,
+        "armyId": 10098,
+        "armyNum": 6
+      }
+    ]
+  },
+  "gather_type": "thor",
+  "queue_gather": 5,
+  "gather_win_start": "",
+  "gather_win_end": ""
+}
